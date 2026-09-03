@@ -1,6 +1,6 @@
 # DECISIONS.md
 
-Hey there! Thanks for taking the time to review my assignment. I wanted to use this document to walk you through my thought process, the decisions I made, and why I built the dashboard this way.
+Hey there! Thanks for taking the time to review the task. I wanted to use this document to walk you through my thought process, the decisions I made, and why I built the dashboard this way.
 
 ## What I Built and Why
 
